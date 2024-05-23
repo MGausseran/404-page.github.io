@@ -1,0 +1,55 @@
+header {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: "Bebas Neue";
+}
+
+header h1 {
+    color: #fff;
+    font-size: 400px;
+    text-shadow: 10px 15px 10px #000;
+    margin-bottom: 0;
+    padding-bottom: 0px
+}
+
+body {
+    background-image: url(https://hookagency.com/wp-content/uploads/2017/07/hide-the-pain-harold-stock-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial;
+    color: white;
+
+
+}
+
+main h2 {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    text-shadow: 10px 5px 10px #000;
+}
+
+main h3 {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    text-shadow: 10px 5px 10px #000;
+}
+
+#button {
+    background-color: red;
+    padding: 20px;
+    border: solid 5px white;
+    border-radius: 50%;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    font-family: "Poetsen One";
+
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
